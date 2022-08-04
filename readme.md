@@ -14,4 +14,4 @@ By Dinesh Bana
 
 ![badge2](https://img.shields.io/badge/personal%20portfolio%20webpage-HTML%20%26%20CSS-yellowgreen)
 
-## Project Link: [My Website](https://app.netlify.com/sites/dineshbana/settings/domain)
+## Project Link: [My Website](https://dineshbana.netlify.app/)
